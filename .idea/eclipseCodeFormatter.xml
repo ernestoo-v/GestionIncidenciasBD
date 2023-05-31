@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="eclipseVersion" value="CUSTOM" />
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrder" value="" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/eclipse-workspace" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
